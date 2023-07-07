@@ -75,7 +75,7 @@ if ($Module -eq $null) {
         Install-Module -name Microsoft.Graph.Identity.DirectoryManagement
     
     }
-Connect-MgGraph
+Connect-MgGraph -Scopes "Directory.Read.All","Domain.Read.All","Domain.ReadWrite.All","Directory.AccessAsUser.All"
 #Enter the Admin credentials from "Become a tenant Admin in GoDaddy"
  
 Get-MgDomain
