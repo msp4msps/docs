@@ -95,7 +95,7 @@
   * [Device Use Shall be restricted until required applications are installed](security/intune/device-use-shall-be-restricted-until-required-applications-are-installed.md)
   * [Devices and Applications shall be wiped when a user leaves the organization or reports a lost/stolen](security/intune/devices-and-applications-shall-be-wiped-when-a-user-leaves-the-organization-or-reports-a-lost-stolen.md)
 
-## ⚙ Configurations
+## ⚙️ Configurations
 
 * [GDAP](configurations/gdap/README.md)
   * [My Automations Break with GDAP: The Fix!](configurations/gdap/my-automations-break-with-gdap-the-fix.md)
@@ -106,7 +106,7 @@
 * [GoDaddy](configurations/godaddy/README.md)
   * [Defederating GoDaddy 365](configurations/godaddy/defederating-godaddy-365.md)
 
-## 🛡 CIS Controls
+## 🛡️ CIS Controls
 
 * [CIS Mapped to M365](cis-controls/cis-mapped-to-m365.md)
 

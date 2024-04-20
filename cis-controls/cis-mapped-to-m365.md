@@ -16,4 +16,4 @@ I'm also have a premium version of the guide, packed with additional valuable re
 
 <figure><img src="../.gitbook/assets/clientNotification.jpg" alt=""><figcaption></figcaption></figure>
 
-### Get your copy of the premium guide [here](https://buy.stripe.com/7sIbMvf3h6Rd7wAfZ1)
+### Get your copy of the premium guide [here](https://buy.stripe.com/dR62bV3kz0sP6swaEN)
