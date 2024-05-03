@@ -105,7 +105,7 @@ You can do this manually one user at a time if there aren’t many users in the 
 ```
 Write-Host "Checking for MSGraph module..."
 
-$Module = Get-Module -Name "Microsoft.Graph.Users.Actionst" -ListAvailable
+$Module = Get-Module -Name "Microsoft.Graph.Users.Actions" -ListAvailable
 
 if ($Module -eq $null) {
     
